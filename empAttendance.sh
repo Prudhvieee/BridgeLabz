@@ -9,3 +9,4 @@ then
 else
 	echo "Employee is Absent";
 fi
+#cofict created for example 
