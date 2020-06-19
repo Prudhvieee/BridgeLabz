@@ -11,3 +11,6 @@ else
 fi
 
 #terminal conflict
+
+#cofict created for example 
+
